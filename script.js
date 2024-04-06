@@ -22,8 +22,6 @@ h4.forEach(function(elem){
     })
 })
 
-
-
 gsap.to("#nav", {
     backgroundColor: "black",
     height: "90px",
@@ -116,4 +114,3 @@ gsap.from("#page4 h1",{
         
     }
 })
-
